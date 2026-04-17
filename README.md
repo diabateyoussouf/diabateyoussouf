@@ -10,6 +10,9 @@
   <a href="https://github.com/diabateyoussouf">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
   </a>
+  <a href="https://wa.me/212774507360">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp" />
+  </a>
 </p>
 
 ---
@@ -18,7 +21,7 @@
 
 I’m a **Data Scientist & AI Engineer** passionate about building **intelligent, scalable and high-performance systems** using Machine Learning, NLP and Generative AI.
 
-I design and deploy **end-to-end AI solutions**, from data processing to production systems, with a focus on real-world impact.
+I design and deploy **end-to-end AI solutions**, from data processing to production systems, with a strong focus on real-world impact.
 
 ---
 
@@ -34,11 +37,15 @@ I design and deploy **end-to-end AI solutions**, from data processing to product
 ### ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,ts" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,spring" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,spring,streamlit,flutter" />
 </p>
 
 <p>
@@ -49,14 +56,22 @@ I design and deploy **end-to-end AI solutions**, from data processing to product
 
 ### 📊 Data & Big Data
 
-* SQL, NoSQL (HBase)
-* Hadoop, Hive, PySpark
+* SQL • NoSQL (HBase)
+* Hadoop • Hive • Pig • PySpark
 * Real-time processing with Kafka
+
+---
+
+### 🧰 AI & Tools
+
+* Transformers • LangChain • LlamaIndex
+* TensorFlow • Keras • Scikit-Learn
 
 ---
 
 ### 📫 Contact
 
 * Email: [diabateyoussouf390@gmail.com](mailto:diabateyoussouf390@gmail.com)
+* WhatsApp: +212 774507360
 * LinkedIn: https://linkedin.com/in/diabateyoussouf390
 * GitHub: https://github.com/diabateyoussouf
