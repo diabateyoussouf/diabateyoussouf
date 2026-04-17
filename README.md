@@ -31,25 +31,14 @@ I design and deploy **end-to-end AI solutions**, from data processing to product
 * Natural Language Processing (NLP)
 * Computer Vision
 * Generative AI (LLM, RAG, AI Agents)
+* Dev Full Stack
 
 ---
 
 ### ⚙️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,spring,streamlit,flutter" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,docker,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,django,flask,spring,flutter,tensorflow,pytorch,sklearn,postgres,mongodb,kafka,docker,linux&perline=15" />
 </p>
 
 ---
