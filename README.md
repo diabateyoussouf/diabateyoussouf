@@ -29,7 +29,7 @@ Building intelligent systems, scalable AI products, and data-driven platforms.
 
 ## About Me
 
-Data Scientist & AI Engineer (Master’s Student) specialized in:
+Data Scientist & AI Engineer specialized in:
 
 - Machine Learning & Deep Learning
 - Natural Language Processing (NLP)
