@@ -1,60 +1,80 @@
-<p align="center">
-  <img src="https://github.com/diabateyoussouf.png" width="180" alt="Youssouf Diabate">
-</p>
+<table>
+<tr>
+<td width="30%" align="center">
 
-<h1 align="center">Youssouf Diabate</h1>
+<img src="https://github.com/diabateyoussouf.png" width="220" alt="Youssouf Diabate"/>
 
-<p align="center">
-<strong>AI Engineer • Data Scientist • Big Data Architect</strong>
-</p>
+<br><br>
 
-<p align="center">
-Building Intelligent Systems, Edge AI Solutions, and Scalable Data Platforms
-</p>
+<a href="https://linkedin.com/in/diabateyoussouf390">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/diabateyoussouf390">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:diabateyoussouf390@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/diabateyoussouf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:diabateyoussouf390@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/diabateyoussouf">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="70%">
+
+# Youssouf Diabate
+
+### AI Engineer • Data Scientist • Big Data Architect
+
+Building intelligent systems at the intersection of Artificial Intelligence, Big Data, Edge Computing and Cloud Technologies.
+
+Passionate about designing production-grade AI solutions, scalable architectures and intelligent platforms that transform data into actionable insights.
+
+#### Current Focus
+
+* 🤖 Large Language Models (LLMs)
+* 🧠 RAG & Multi-Agent Systems
+* 👁️ Computer Vision & Edge AI
+* 📊 Big Data Engineering
+* ☁️ Distributed Architectures
+* 🌾 AI for Agriculture & IoT
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## About Me
 
-AI Engineer and Data Scientist passionate about transforming research into real-world products.
+AI Engineer and Data Scientist focused on transforming research into scalable products.
 
-My work focuses on:
+My expertise covers:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Large Language Models (LLMs, RAG, Agents)
-- 👁️ Computer Vision & Edge AI
-- 📊 Big Data & Distributed Computing
-- ☁️ Cloud-Native Architectures
-- ⚙️ Scalable Backend Systems
+* Artificial Intelligence & Machine Learning
+* Large Language Models (LLMs, RAG, Agents)
+* Computer Vision & Edge AI
+* Big Data & Distributed Systems
+* Backend Engineering & Microservices
+* Cloud-Native Architectures
+* Full-Stack Development
 
-I enjoy designing intelligent platforms that combine AI, data engineering, and software architecture to solve complex challenges.
+I enjoy solving complex real-world challenges through intelligent software systems and data-driven solutions.
 
 ---
 
 ## Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,spring,react,nextjs,docker,postgres,mongodb,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,spring,react,nextjs,flutter,docker,postgres,mongodb,linux,git" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
 </p>
 
 ---
@@ -65,84 +85,88 @@ I enjoy designing intelligent platforms that combine AI, data engineering, and s
 
 AI-powered agricultural monitoring platform featuring:
 
-- Raspberry Pi Edge Computing
-- YOLO-based Insect Detection
-- MQTT Communication
-- Real-Time Analytics
-- Intelligent Pest Monitoring
-- Predictive Agricultural Insights
+* Raspberry Pi Edge Computing
+* YOLO-based Insect Detection
+* MQTT Communication
+* Real-Time Analytics
+* Intelligent Pest Monitoring
+* Predictive Agricultural Insights
 
 ### 🛒 IACommerce
 
-Intelligent E-Commerce Platform including:
+Intelligent E-Commerce Platform featuring:
 
-- Recommendation Engine
-- AI Chatbot
-- Smart Search
-- Sentiment Analysis
-- Predictive Dashboards
-- Intelligent Cart System
-- AI Content Generation
+* AI Recommendation Engine
+* Conversational AI Assistant
+* Smart Search System
+* Sentiment Analysis
+* Predictive Analytics Dashboard
+* Intelligent Shopping Cart
+* AI Content Generation
 
 ### 🚌 School Transport Optimization
 
-Microservice-based smart transportation platform:
+Microservice-based intelligent transportation platform:
 
-- Route Optimization
-- Student Clustering
-- Geospatial Analytics
-- Mobile Tracking
-- Real-Time Monitoring
+* Route Optimization
+* Student Clustering
+* Geospatial Analytics
+* Mobile Tracking
+* Real-Time Monitoring
+* Smart Scheduling
 
 ---
 
 ## Areas of Expertise
 
-| Domain | Technologies |
-|----------|----------|
+| Domain                  | Technologies                                                    |
+| ----------------------- | --------------------------------------------------------------- |
 | Artificial Intelligence | PyTorch, TensorFlow, Scikit-Learn, LangChain, LLMs, RAG, Agents |
-| Computer Vision | YOLO, OpenCV, Edge AI, Raspberry Pi |
-| Big Data | Apache Spark, Hadoop, Kafka, Cassandra, Hive |
-| Backend Engineering | Spring Boot, Django, REST APIs, Microservices |
-| Frontend & Mobile | React, Next.js, Flutter |
-| Databases | PostgreSQL, MongoDB, MySQL, Redis |
-| DevOps & Systems | Docker, Linux, Git, CI/CD |
+| Computer Vision         | YOLO, OpenCV, Edge AI, Raspberry Pi                             |
+| Big Data                | Apache Spark, Hadoop, Kafka, Cassandra, Hive                    |
+| Backend Engineering     | Spring Boot, Django, REST APIs, Microservices                   |
+| Frontend & Mobile       | React, Next.js, Flutter                                         |
+| Databases               | PostgreSQL, MongoDB, MySQL, Redis                               |
+| DevOps & Systems        | Docker, Linux, Git, CI/CD                                       |
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diabateyoussouf&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diabateyoussouf&layout=compact&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diabateyoussouf&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diabateyoussouf&layout=compact&hide_border=true&theme=transparent" />
+
 </p>
 
 ---
 
-## Current Focus
+## Current Interests
 
-- Multi-Agent AI Systems
-- Edge AI & IoT
-- Generative AI Applications
-- Real-Time Big Data Pipelines
-- Intelligent Agricultural Solutions
-- Distributed Architectures
+* Multi-Agent AI Systems
+* Generative AI Applications
+* Edge AI & Embedded Intelligence
+* Real-Time Data Processing
+* Distributed Architectures
+* Intelligent Agricultural Systems
 
 ---
 
-## Connect With Me
+## Contact
 
-📧 **Email**  
-diabateyoussouf390@gmail.com
+📧 **Email**
+[diabateyoussouf390@gmail.com](mailto:diabateyoussouf390@gmail.com)
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
 https://linkedin.com/in/diabateyoussouf390
 
-🚀 **GitHub**  
+🚀 **GitHub**
 https://github.com/diabateyoussouf
 
 ---
 
 <p align="center">
-  <i>Turning Data into Intelligence and Ideas into Scalable Solutions.</i>
+<i>Transforming Data into Intelligence and Ideas into Scalable Solutions.</i>
 </p>
