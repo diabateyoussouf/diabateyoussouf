@@ -1,94 +1,113 @@
-<h1 align="center">Hi there, I'm Youssouf Diabate 👋</h1>
+<h1 align="center">Youssouf Diabate</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;Big+Data+Architect;Full-Stack+Developer" alt="Typing SVG" />
-  </a>
+AI Engineer • Data Scientist • Big Data Architect
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diabateyoussouf&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/diabateyoussouf390">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:diabateyoussouf390@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/212774507360">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/diabateyoussouf390">LinkedIn</a> •
+<a href="mailto:diabateyoussouf390@gmail.com">Email</a> •
+<a href="https://github.com/diabateyoussouf">GitHub</a>
 </p>
 
 ---
 
-### 🚀 Executive Summary
+## About Me
 
-I am a **Data Scientist & AI Engineer** specializing in high-scale architectures. I bridge the gap between **Complex AI Models** and **Production-Ready Big Data Pipelines**.
+AI Engineer and Data Scientist focused on building production-grade intelligent systems.
 
-- 🤖 **AI & Research:** Deep Learning, NLP (RAG/Agents), Computer Vision.
-- 🐘 **Big Data:** Designing distributed systems and real-time data flows.
-- ⚙️ **Engineering:** Clean code, Scalable Backends, Cross-Platform Apps and DevOps.
+My work combines:
+
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Edge AI
+- Large Language Models (LLMs, RAG, Agents)
+- Big Data Architectures
+- Cloud-Native and Distributed Systems
+
+I enjoy transforming research ideas into scalable products that solve real-world problems.
 
 ---
 
-### 📊 Performance & Activity
+## Featured Projects
+
+### Smart Agricultural Trap (Edge AI + IoT)
+
+AI-powered insect monitoring platform combining:
+
+- Raspberry Pi Edge Computing
+- YOLO Object Detection
+- MQTT Communication
+- Real-Time Analytics
+- Predictive Agricultural Insights
+
+### IACommerce
+
+Intelligent E-Commerce Platform featuring:
+
+- Recommendation Engine
+- AI Chatbot
+- Smart Search
+- Sentiment Analysis
+- Predictive Dashboards
+- Intelligent Cart System
+
+### School Transport Optimization
+
+Microservice-based platform for:
+
+- Route Optimization
+- Student Clustering
+- Geospatial Analytics
+- Mobile Tracking
+
+---
+
+## Technical Expertise
+
+### Artificial Intelligence
+
+Python • PyTorch • TensorFlow • Scikit-Learn • LangChain • RAG • LLM Agents • NLP • Computer Vision
+
+### Big Data
+
+Apache Spark • Hadoop • Kafka • Hive • HBase • Cassandra
+
+### Backend & Cloud
+
+Spring Boot • Django • Docker • REST APIs • Microservices
+
+### Frontend & Mobile
+
+React • Next.js • Flutter
+
+### Databases
+
+PostgreSQL • MongoDB • MySQL
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diabateyoussouf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diabateyoussouf&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=diabateyoussouf&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Technical Stack
+## Current Focus
 
-#### 🐘 Big Data & Distributed Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HBase-B32024?style=for-the-badge&logo=apachehbase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-</p>
-
-#### 🧠 Artificial Intelligence & Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-</p>
-
-#### 🌐 Full-Stack, Apps & Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-#### 🗄️ Databases & SQL
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+- Edge AI for Agriculture
+- Multi-Agent AI Systems
+- Generative AI Applications
+- Real-Time Big Data Pipelines
+- Distributed Architectures
 
 ---
 
-### 📫 Connect with me
+## Contact
 
-- 💼 **LinkedIn:** [diabateyoussouf390](https://linkedin.com/in/diabateyoussouf390)
-- 📧 **Direct Mail:** [diabateyoussouf390@gmail.com](mailto:diabateyoussouf390@gmail.com)
-- 🚀 **GitHub:** [diabateyoussouf](https://github.com/diabateyoussouf)
+📧 diabateyoussouf390@gmail.com
+
+💼 https://linkedin.com/in/diabateyoussouf390
+
+🚀 https://github.com/diabateyoussouf
